@@ -1,0 +1,182 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<videogamedata>
+    <videogame>
+        <name>Minecraft</name>
+        <date>18 November 2011</date>
+        <genre>Sandbox</genre>
+        <metacritic>93</metacritic>
+        <description>Metacritic Summary: The game involves players creating and destroying various types of blocks in a three dimensional environment. The player takes an avatar that can destroy or create blocks, forming fantastic structures, creations and artwork across the various multiplayer servers in multiple game modes.</description>
+        <boxArt>images/boxArt_Minecraft.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Grand Theft Auto 5</name>
+        <date>17 September 2013</date>
+        <genre>Action-Adventure</genre>
+        <metacritic>96</metacritic>
+        <description>Metacritic Summary: Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of economic uncertainty and cheap reality TV. Amidst the turmoil, three very unique criminals plot their own chances of survival and success: Franklin, a street hustler looking for tangible opportunities and serious money; Michael, a professional ex-con whose retirement is less rosy than he figured it would be; and Trevor, a violent dude driven by the opportunity for a cheap high and his next big score. With options at a premium, the crew risks it all in a myriad of daring and dangerous heists that could set them up for life.</description>
+        <boxArt>images/boxArt_GTA5.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Animal Crossing: New Horizons</name>
+        <date>20 March 2020</date>
+        <genre>Simulation</genre>
+        <metacritic>90</metacritic>
+        <description>Metacritic Summary: If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package. Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service. But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered. Peaceful creativity and charm await as you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more.</description>
+        <boxArt>images/boxArt_ACNH.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Wii Sports</name>
+        <date>19 November 2006</date>
+        <genre>Sports</genre>
+        <metacritic>76</metacritic>
+        <description>Metacritic Summary: Tennis (1-4 players): Players grab the controller like a racket and swing – the game will register forehands, backhands, volleys, lobs, slices, spin and power depending on how fast the user swings and at what angle. Don't worry about moving around the court to get to the ball – the game automatically moves players into position. Baseball (1-2 players): Grip the controller like a bat and swat fastballs out of the park in a home run derby. Timing and bat speed will make all the difference between going yard and whiffing, so keep an eye on the ball and swing for the fences. In the two-player game, one player pitches and the other bats. Golf (1 player): Step up to the tee, hold the controller like a golf club and swing naturally to smack the ball onto the green. The harder players swing the club, the farther the ball will fly, so be sure to take some practice swings before going for the pin. After reaching the green, line up putts carefully, practice the stroke and try to hole out. [Nintendo]</description>
+        <boxArt>images/boxArt_WiiSports.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>PUBG: Battlegrounds</name>
+        <date>20 December 2017</date>
+        <genre>TPS</genre>
+        <metacritic>86</metacritic>
+        <description>Metacritic Summary: PLAYERUNKNOWN'S BATTLEGROUNDS is a last-man-standing shooter being developed with community feedback. Players must fight to locate weapons and supplies in a massive 8x8 km island to be the lone survivor. This is BATTLE ROYALE.</description>
+        <boxArt>images/boxArt_PUBG.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>New Super Mario Bros</name>
+        <date>15 May 2006</date>
+        <genre>Platformer</genre>
+        <metacritic>89</metacritic>
+        <description>Metacritic Summary: The first new 2D Mario platformer since Super Mario World has arrived. Boasting "incredible" 3D graphics to accompany classic 2D gameplay, this fast-paced adventure will have Mario fans cheering as they make their way over fields, under water, through castles and into the air. New and familiar enemies are everywhere, not to mention "mind-blowing" challenges made possible by the dual screens of the Nintendo DS. Not only that, but players can link wirelessly with a friend to play as both Mario and Luigi in multiplayer mode. [Nintendo]</description>
+        <boxArt>images/boxArt_NSMB.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Mario Kart 8/Deluxe</name>
+        <date>29 May 2014</date>
+        <genre>Racing</genre>
+        <metacritic>92</metacritic>
+        <description>Metacritic Summary: Race and battle your friends in the definitive version of Mario Kart 8. Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play your friends in local wireless multiplayer with up to 8 players.</description>
+        <boxArt>images/boxArt_MK8D.jpeg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Overwatch</name>
+        <date>24 May 2016</date>
+        <genre>FPS</genre>
+        <metacritic>91</metacritic>
+        <description>Metacritic Summary: Overwatch is a highly stylized team-based shooter set on earth in the near future. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, mercenaries, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.</description>
+        <boxArt>images/boxArt_Overwatch.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Pokemon Fire Red</name>
+        <date>7 September 2004</date>
+        <genre>RPG</genre>
+        <metacritic>81</metacritic>
+        <description>Metacritic Summary: Pokémon Fire Red adds more content and features to one of the first Pokémon games ever released. In this version of the classic role-playing game, you can collect all of the monsters from different Pokémon installments, including Ruby, Sapphire, and Colosseum. The game comes with a wireless adapter, which lets you connect with your friends' Game Boy Advances to chat, trade Pokémon, and participate in battles. Other new features include a tutorial mode, a recap system, minigames, and more.</description>
+        <boxArt>images/boxArt_PokemonRed.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Red Dead Redemption 2</name>
+        <date>26 October 2018</date>
+        <genre>Action-Adventure</genre>
+        <metacritic>97</metacritic>
+        <description>Metacritic Summary: Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game’s vast and atmospheric world also provides the foundation for a brand new online multiplayer experience. America, 1899. The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang has to rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal fissures threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang that raised him. [Rockstar]</description>
+        <boxArt>images/boxArt_RDR2.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Terraria</name>
+        <date>16 May 2011</date>
+        <genre>Sandbox</genre>
+        <metacritic>83</metacritic>
+        <description>Metacritic Summary: Terraria offers players a chance to be an action gamer, master builder, a collector, and even an explorer.</description>
+        <boxArt>images/boxArt_Terraria.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>The Witcher 3</name>
+        <date>19 May 2015</date>
+        <genre>RPG</genre>
+        <metacritic>93</metacritic>
+        <description>Metacritic Summary: With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders, breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next generation format.</description>
+        <boxArt>images/boxArt_TW3.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Diablo III</name>
+        <date>16 May 2012</date>
+        <genre>ARPG</genre>
+        <metacritic>88</metacritic>
+        <description>Metacritic Summary: Diablo III picks up the story twenty years after the events of Diablo II. Mephisto, Diablo, and Baal have been defeated, but the Worldstone, which once shielded the inhabitants of the world of Sanctuary from the forces of both the High Heavens and the Burning Hells, has been destroyed, and evil once again stirs in Tristram. Playing as a hero from one of five distinct character classes, players acquire powerful items, spells, and abilities as they explore new and familiar areas of Sanctuary and battle hordes of demons to safeguard the world from the horrors that have arisen.</description>
+        <boxArt>images/boxArt_Diablo3.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>The Elder Scrolls V: Skyrim</name>
+        <date>11 November 2011</date>
+        <genre>RPG</genre>
+        <metacritic>94</metacritic>
+        <description>Metacritic Summary: The next chapter in the Elder Scrolls saga arrives from the Bethesda Game Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before. Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons. Choose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions. Battle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power for yourself.</description>
+        <boxArt>images/boxArt_TESV.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Super Smash Bros. Ultimate</name>
+        <date>7 December 2018</date>
+        <genre>Platform Fighter</genre>
+        <metacritic>93</metacritic>
+        <description>Metacritic Summary: Inklings from the Splatoon series, as well as returning Smash characters like Mario and Link will be making appearances in this classic Nintendo franchise's Switch debut. Faster combat, new items, new attacks, new defensive options, and more will keep the battle raging whether you’re at home or on the go.</description>
+        <boxArt>images/boxArt_SMBU.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>The Walking Dead</name>
+        <date>24 April 2012</date>
+        <genre>Interactive Film</genre>
+        <metacritic>89</metacritic>
+        <description>Metacritic Summary: Based on Robert Kirkman's comic book series, The Walking Dead brings to life a world devastated by an undead apocalypse and the horrifying choices you're forced to make to survive. Play the role of Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer you redemption in a world gone to hell.</description>
+        <boxArt>images/boxArt_TWD.jpeg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Borderlands 2</name>
+        <date>18 September 2012</date>
+        <genre>FPS</genre>
+        <metacritic>89</metacritic>
+        <description>Metacritic Summary: Borderlands 2 advances the distinct blending of FPS and role-playing genres to create an evolution of the Role Playing Shooter. Team up with up to 3 other players for 4-player online goodness or go old-school with 2-player split-screen couch sharing mayhem as you spend hours leveling up your character and equipping them with one of the millions of badass weapons. Borderlands 2 features a new array of procedurally generated guns, shields, grenades, artifacts, enemies and more. Choose one of the 4 new character classes to be taken through a carefully crafted and connected story to all new and surprising environments across the living planet of Pandora. Make new friends, arm them to the teeth and fight alongside them on your relentless quest for revenge and redemption.</description>
+        <boxArt>images/boxArt_Borderlands2.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>FIFA 18</name>
+        <date>29 September 2017</date>
+        <genre>Sports</genre>
+        <metacritic>84</metacritic>
+        <description>Metacritic Summary: Score incredible goals in FIFA 18 as new movement and finishing animations unlock more fluid striking and heading of the ball. All-new crossing controls bring greater options to how you send it into the box. Whipped to the spot, arching deliveries, and pinged crosses to the back-stick will shake up your attacks in the final third. The biggest step in gameplay, FIFA 18 introduces Real Player Motion Technology, an all-new animation system that unlocks the next level of responsiveness and player personality. Now Cristiano Ronaldo and other top players feel and move exactly like they do on the real pitch. From tiki-taka to high press, new Team Styles put the most recognised tactics of the world's best clubs on the pitch in FIFA 18. Enjoy more time and space to read the play through New Player Positioning, while improved tactics give players greater options on the ball as teammates exploit space and make new attacking runs. [Electronic Arts]</description>
+        <boxArt>images/boxArt_FIFA18.jpg</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>Call of Duty: Modern Warfare 2</name>
+        <date>10 November 2009</date>
+        <genre>FPS</genre>
+        <metacritic>94</metacritic>
+        <description>Metacritic Summary: Modern Warfare 2 continues the gripping and heart-racing action as players face off against a new threat dedicated to bringing the world to the brink of collapse. An entirely new gameplay mode which supports 2-player co-operative play online that is unique from the single player story campaign. Special Ops pits players into a gauntlet of time-trial and objective-based missions. Rank-up as players unlock new Special Ops missions, each more difficult.</description>
+        <boxArt>images/boxArt_CODMW2.png</boxArt>
+    </videogame>
+
+    <videogame>
+        <name>The Legend of Zelda: Breath of the Wild</name>
+        <date>3 March 2017</date>
+        <genre>Action-Adventure</genre>
+        <metacritic>97</metacritic>
+        <description>Metacritic Summary: Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this open-air adventure. Explore the wilds of Hyrule any way you like - Climb up towers and mountain peaks in search of new destinations, then set your own path to get there and plunge into the wilderness. Along the way, you'll battle towering enemies, hunt wild beasts and gather ingredients for the food and elixirs you'll need to sustain you on your journey.</description>
+        <boxArt>images/boxArt_BOTW.jpg</boxArt>
+    </videogame>
+</videogamedata>
