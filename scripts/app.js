@@ -1,7 +1,11 @@
 let gameSearch = document.querySelector('#game-search');
-let gamesHtml = document.querySelectorAll('.game-card');
+// let gamesHtml = document.querySelectorAll('.game-card');
+let gamesHtml = document.querySelector('#cards').children;
+gamesHtml = Array.prototype.slice.call(gamesHtml, 0);
 
 let games;
+
+let sortedBy = null;
 
 const request = new XMLHttpRequest();
 
@@ -12,6 +16,34 @@ request.onload =  function() {
 request.open('get', 'get-games.php', true);
 request.send();
 
+// function isValidChar(char) {
+//     return char >= 'a' && char <= 'z'
+//         || char >= 'A' && char <= 'Z'
+//         || char >= '0' && char <= '9'
+//         || char === '-';
+// }
+
+// function toHtmlId(str) {
+//     str = str.replace(' ', '-');
+//
+//     let newStr = "";
+//
+//     for (const c of str) {
+//         if (isValidChar(c)) {
+//             newStr += c;
+//         }
+//     }
+//
+//     return str.toLowerCase();
+// }
+
+for (const game of gamesHtml) {
+    game.name = game.querySelector(`#${game.id}-name`).innerText;
+    game.date = game.querySelector(`#${game.id}-date`).innerText;
+    game.genre = game.querySelector(`#${game.id}-genre`).innerText;
+    game.metacritic = parseInt(game.querySelector(`#${game.id}-rating`).innerText);
+}
+
 gameSearch.addEventListener('input', () => {
     if (gameSearch.value === '') {
         for (const game of gamesHtml) {
@@ -21,7 +53,7 @@ gameSearch.addEventListener('input', () => {
     }
 
     for (const game of gamesHtml) {
-        if (game.id.toLowerCase().includes(gameSearch.value.toLowerCase())) {
+        if (game.name.toLowerCase().includes(gameSearch.value.toLowerCase())) {
             game.style.display = 'block';
         }
         else {
@@ -44,7 +76,7 @@ function addGameOnClick() {
             const field = document.createElement('input');
             field.type = 'hidden';
             field.name = 'name';
-            field.value = game.id;
+            field.value = game.name;
 
             form.appendChild(field);
 
@@ -62,50 +94,69 @@ function addGameOnClick() {
     }
 }
 
+function reverseOrder() {
+    gamesHtml.reverse();
+    appendGames();
+}
+
 function sortAlphabetically() {
-    games.sort(function(a, b) {
+    if (sortedBy === 'alphabetical') {
+        reverseOrder();
+        return;
+    }
+
+    sortedBy = 'alphabetical';
+
+    sort((a, b) => {
         const nameA = a.name.toUpperCase();
         const nameB = b.name.toUpperCase();
-        if(nameA < nameB){return -1;}
-        if(nameA > nameB){return 1;}
+
+        if (nameA < nameB) {
+            return -1;
+        }
+
+        if (nameA > nameB) {
+            return 1;
+        }
+
         return 0;
     });
-
-    sort();
 }
 
 function sortRating() {
-    games.sort((m1, m2) => (m1.metacritic < m2.metacritic) ? 1 : (m1.metacritic > m2.metacritic) ? -1 : 0);
-
-    sort();
-}
-
-function sort () {
-    let inner = '';
-
-    for (const game of games) {
-        const card = document.createElement('div');
-        card.className = 'col-3 mb-3 game-card';
-
-        inner += `
-            <div id="${game.name}" class="col-3 mb-3 game-card">
-                <div class="card h-100">
-                    <img src="${game.boxArt}" alt="Game Art" class="card-img-top h-100">
-                    <div class="card-body"><h4 class="card-title">${game.name}</h4>
-                        <p class="card-text">Date Released: ${game.date}</p>
-                        <p class="card-text">Genre: ${game.genre}</p>
-                        <p class="card-text">Metacritic Rating: ${game.metacritic}</p>
-                        <p class="d-none game-name">${game.name}<p>
-                    </div>
-                </div>
-            </div>`;
+    if (sortedBy === 'rating') {
+        reverseOrder();
+        return;
     }
 
-    const cards = document.querySelector('#cards');
-    cards.innerHTML = inner;
+    sortedBy = 'rating';
 
-    gamesHtml = document.querySelectorAll('.game-card');
-    addGameOnClick();
+    sort((m1, m2) => {
+        if (m1.metacritic < m2.metacritic) {
+            return 1;
+        }
+
+        if (m1.metacritic > m2.metacritic) {
+            return -1;
+        }
+
+        return 0;
+    });
+}
+
+function sort(sortFunction) {
+    gamesHtml.sort(sortFunction);
+
+    appendGames();
+}
+
+function appendGames() {
+    const parent = document.querySelector('#cards');
+    parent.innerHTML = "";
+
+    for (const game of gamesHtml) {
+        parent.appendChild(game);
+    }
 }
 
 const sortAlphabeticalLink = document.querySelector('#nav-alphabetical');
