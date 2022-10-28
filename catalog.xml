@@ -51,6 +51,31 @@
             the crew risks it all in a myriad of daring and dangerous heists that could set them up for life.
         </description>
         <boxArt>images/boxArt_GTA5.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Gameplanet</reviewer>
+                <date>20 November 2014</date>
+                <body>Grand Theft Auto V for new-gen is without a doubt the best way to experience one of the biggest
+                    releases of the last half decade.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>NZGamer</reviewer>
+                <date>27 November 2014</date>
+                <body>A beautiful, expertly realised world.</body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Quarter to Three</reviewer>
+                <date>19 December 2014</date>
+                <body>With this latest version, Rockstar’s latest game is no longer just a masterpiece. It’s now a
+                    state-of-the-art technical marvel. On many levels, you haven’t seen what videogames can accomplish
+                    until you’ve played this version Grand Theft Auto V.
+                </body>
+                <score>100</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -70,6 +95,33 @@
             friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more.
         </description>
         <boxArt>images/boxArt_ACNH.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>GameSkinny</reviewer>
+                <date>8 April 2020</date>
+                <body>The latest Animal Crossing is also the best, full of life, charm, and near-endless ways to make
+                    your very own island paradise.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Multiplayer.it</reviewer>
+                <date>16 March 2020</date>
+                <body>New Horizons is the crown jewel in the beloved Animal Crossing franchise: Nintendo managed to
+                    surpass every expectation by refining the gameplay with a plethora of features which improve
+                    visuals, quality of life and customization.
+                </body>
+                <score>95</score>
+            </review>
+            <review>
+                <reviewer>Slant Magazine</reviewer>
+                <date>12 April 2020</date>
+                <body>By consolidating so much power in your hands, the game threatens to upend the Animal Crossing
+                    vision of community living.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -89,6 +141,33 @@
             line up putts carefully, practice the stroke and try to hole out. [Nintendo]
         </description>
         <boxArt>images/boxArt_WiiSports.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>GamePro</reviewer>
+                <date>N/A</date>
+                <body>We can't help but enjoy the fact that we're getting a solid sports experience for nothing. It's
+                    definitely more fun in groups and won't have a great deal of longevity, but anyone who doesn't find
+                    at least some fun in Wii Sports has a heart of coal.
+                </body>
+                <score>85</score>
+            </review>
+            <review>
+                <reviewer>PALGN</reviewer>
+                <date>N/A</date>
+                <body>A very solid first effort for the Wii, and provides just a taste of what is, and what will be,
+                    great about the Wii console. Pick it up, play it and have fun. Very nice.
+                </body>
+                <score>75</score>
+            </review>
+            <review>
+                <reviewer>Console Gameworld</reviewer>
+                <date>N/A</date>
+                <body>Despite control issues Wii Sports is probably one of the only launch titles that offers so much
+                    fun from such a small package.
+                </body>
+                <score>60</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -101,6 +180,35 @@
             the lone survivor. This is BATTLE ROYALE.
         </description>
         <boxArt>images/boxArt_PUBG.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>IBTimes UK</reviewer>
+                <date>19 February 2018</date>
+                <body>The enormity of PlayerUnknown's Battlegrounds' success will have surprised even its developers.
+                    This is a shooter that didn't invent the Battle Royale genre in gaming, but which certainly
+                    perfected it to the point that it found a massive, massive audience. With more than 30 million
+                    copies sold, PUBG is a bona fide phenomenon with an influence that will be felt in the industry for
+                    years to come.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Metro GameCentral</reviewer>
+                <date>22 December 2017</date>
+                <body>PUBG is one of the best multiplayer experiences of the generation, and this is the best version of
+                    it so far – even if it’s still a work in progress.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>GameCritics</reviewer>
+                <date>29 January 2018</date>
+                <body>Despite how many technical and design issues it has now, and regardless of however irrelevant it
+                    may be in a few years, PUBG is revelatory, and will always hold a special place in my heart.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -116,10 +224,40 @@
             multiplayer mode. [Nintendo]
         </description>
         <boxArt>images/boxArt_NSMB.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Computer Games Magazine</reviewer>
+                <date>September 2006</date>
+                <body>
+                    Nintendo sweetened the pot with what feel like dozens of mini-games, and you're liable to find two
+                    or three that can hold your attention.
+                </body>
+                <score>60</score>
+            </review>
+            <review>
+                <reviewer>RewiredMind</reviewer>
+                <date>N/A</date>
+                <body>
+                    As pure a game as you could ever wish to play. Adrenaline, frustration, addiction and the largest
+                    hunk of retro gaming pleasure that you could purchase. If you own a DS, and you don’t even give this
+                    a chance, you might as well get your consoles listed on eBay. Give up. Buy it. Now.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Digital Entertainment News</reviewer>
+                <date>N/A</date>
+                <body>
+                    New Super Mario Bros. is a solid platformer and a nice homage to the Mario series, but it's not
+                    Mario's big return to 2D gameplay like everyone thought it would be.
+                </body>
+                <score>84</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
-        <name>Mario Kart 8/Deluxe</name>
+        <name>Mario Kart 8 Deluxe</name>
         <date>29 May 2014</date>
         <genre>Racing</genre>
         <metacritic>92</metacritic>
@@ -129,6 +267,37 @@
             multiplayer with up to 8 players.
         </description>
         <boxArt>images/boxArt_MK8D.jpeg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Gaming Age</reviewer>
+                <date>16 May 2017</date>
+                <body>Much of this will seem like a given to Switch owners, but it's still completely relevant in terms
+                    of what validates picking up this version of Mario Kart 8. It's not only the "complete" and current
+                    experience, but one transformed by its hardware. Mario Kart 8 Deluxe is the definitive version as
+                    we're likely to know it from now on, and thanks to the nature of the Switch, it's worth every penny.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>GameCrate</reviewer>
+                <date>3 May 2017</date>
+                <body>Mario Kart 8 Deluxe is the definitive Mario Kart experience. It’s got the most complete roster of
+                    characters, tons of tracks, a litany of game modes, and an ultra-polished presentation mixed with
+                    pitch-perfect gameplay. A must play for all Switch owners.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>Power Unlimited</reviewer>
+                <date>19 October 2017</date>
+                <body>You could see Mario Kart 8 Deluxe as an easy port, because it is to a certain extent. But it would
+                    be silly to disregard the ultimate fun this kart experience offers because of this. If you have a
+                    Nintendo Switch, Mario Kart 8 Deluxe is an essential purchase you will play for over three years and
+                    never regret buying.
+                </body>
+                <score>85</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -141,6 +310,34 @@
             scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
         </description>
         <boxArt>images/boxArt_Overwatch.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>GameSpot</reviewer>
+                <date>24 May 2016</date>
+                <body>It's that intoxicating path of discovery that makes Overwatch so varied, so rewarding, and
+                    ultimately another seminal release from developer Blizzard. Overwatch is an intelligent cascade of
+                    disparate ideas, supporting one another, pouring into one another, and coiling around themselves as
+                    they flow into the brilliant shooter underneath.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>The Daily Dot</reviewer>
+                <date>27 May 2016</date>
+                <body>If you are a first-person shooter fan generally, and if you enjoy team-based FPS play
+                    specifically, not at least trying Overwatch feels criminal. Blizzard always imparts a deep sense of
+                    holistic quality into its games, and Overwatch is no exception.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>PC Invasion</reviewer>
+                <date>6 June 2016</date>
+                <body>Blizzard has created a solid team FPS but right now it's light on content.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -155,6 +352,31 @@
             in battles. Other new features include a tutorial mode, a recap system, minigames, and more.
         </description>
         <boxArt>images/boxArt_PokemonRed.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>IGN</reviewer>
+                <date>N/A</date>
+                <body>Once again, the Pokemon crew create a game that works extremely well for the handheld market. It
+                    doesn't have quite the same variety as "Ruby/Sapphire," but it's still incredibly satisfying.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>Gamers Europe</reviewer>
+                <date>N/A</date>
+                <body>I can't help but shake the feeling that Nintendo cut corners on this game – with both the engine
+                    and the storyline already made – and this drags the score down.
+                </body>
+                <score>80</score>
+            </review>
+            <review>
+                <reviewer>Cheat Code Central</reviewer>
+                <date>N/A</date>
+                <body>The new additions don't add up to more than what we call an expansion pack for a PC game.
+                </body>
+                <score>50</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -172,6 +394,34 @@
             Arthur must make a choice between his own ideals and loyalty to the gang that raised him. [Rockstar]
         </description>
         <boxArt>images/boxArt_RDR2.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>XGN</reviewer>
+                <date>25 October 2018</date>
+                <body>Red Dead Redemption 2 turned out better then we could ever have hoped for. Rockstar knows how to
+                    create a vast open world teeming with life, in which Arthur and the Van der Linde gang seek fortune
+                    and glory. A new standard for action adventure games has been established.
+                </body>
+                <score>98</score>
+            </review>
+            <review>
+                <reviewer>Jeuxvideo.com</reviewer>
+                <date>25 October 2018</date>
+                <body>With its amazing open-world, well-written story and deep characters, Red Dead Redemption II is a
+                    roller-coaster full of emotions. Controls may feel a bit clunky at times, but still: this is a
+                    masterpiece.
+                </body>
+                <score>95</score>
+            </review>
+            <review>
+                <reviewer>Slant Magazine</reviewer>
+                <date>25 October 2018</date>
+                <body>Red Dead Redemption 2's evocative, often beautiful sense of place exists insofar as it is still
+                    convenient to the player, which harms some of the desperation and hardship the game means to convey.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -183,6 +433,33 @@
             collector, and even an explorer.
         </description>
         <boxArt>images/boxArt_Terraria.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>GamePro</reviewer>
+                <date>1 June 2011</date>
+                <body>Still, Terraria is a great adventure, one of the best sandbox games around, and an absolute steal
+                    for ten bucks on Steam. It's well worth checking out for anyone, regardless of how they feel about
+                    Minecraft. Despite having one fewer dimension, Terraria hides greater depth than its 3D cousin.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>GameCritics</reviewer>
+                <date>24 October 2011</date>
+                <body>The open-sandbox creation genre is still in its infancy, and Terraria is a good, solid, and
+                    inexpensive entry.
+                </body>
+                <score>80</score>
+            </review>
+            <review>
+                <reviewer>Everyeye.It</reviewer>
+                <date>17 June 2011</date>
+                <body>An interesting bidimensional twist of the well known Minecraft: Terraria is accustoming and
+                    incredibily "deep" (literally).
+                </body>
+                <score>80</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -197,6 +474,34 @@
             generation format.
         </description>
         <boxArt>images/boxArt_TW3.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Games.cz</reviewer>
+                <date>4 June 2015</date>
+                <body>The CD Projekt Red surpassed all expectations and they really managed to combine a megalomaniac
+                    open world with a strong story. Witcher 3 is a masterpiece, which you will talk to your
+                    grandchildren about.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Pure Xbox</reviewer>
+                <date>1 June 2015</date>
+                <body>If you stick with it until the end, you'll be blown away by its engrossing world, riveting
+                    characters, and deep combat system. It's a crowning achievement from the developers, and it's a
+                    definite contender for game of the year.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>New York Daily News</reviewer>
+                <date>21 May 2015</date>
+                <body>The end result is a terrific role-playing game that any fan of Elder Scrolls: Skyrim will love.
+                    The Witcher 3: Wild Hunt falls just short of perfection because of those nagging little issues.
+                </body>
+                <score>80</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -212,6 +517,38 @@
             and battle hordes of demons to safeguard the world from the horrors that have arisen.
         </description>
         <boxArt>images/boxArt_Diablo3.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Polygon</reviewer>
+                <date>24 May 2012</date>
+                <body>Games this thoughtfully crafted don't happen very often, and the care that Blizzard has taken with
+                    Diablo 3 shows in every facet of its design and execution. It might not be perfect, but after 45
+                    hours, I'm not sure where it missteps, and after 45 hours, I feel like I've only scratched the
+                    surface of what it has to offer. Diablo 3 is almost evil in how high a bar it's set for every PC
+                    action RPG to follow, and I wouldn't be surprised to see that bar remain for a very long time.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Armchair Empire</reviewer>
+                <date>13 June 2012</date>
+                <body>There is absolutely no denying that Diablo III continues to maintain the high artistic standards
+                    that it has kept over the years. But the dumbed character and inventory systems, coupled to the
+                    ridiculous always-on connection and the breathtaking arrogance of the"you'll play how we tell you to
+                    play" attitude makes playing this title a damned shame instead of a hell of a good time.
+                </body>
+                <score>45</score>
+            </review>
+            <review>
+                <reviewer>GameSpot</reviewer>
+                <date>22 May 2012</date>
+                <body>There's a good chance you've played games a lot like Diablo III before, and at no point does it
+                    dare to surprise you by tinkering with its tried-and-true formula. But it creates such an enticing
+                    world and offers up such enjoyable abilities that it makes that formula feel fresh again.
+                </body>
+                <score>85</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -232,32 +569,28 @@
         <boxArt>images/boxArt_TESV.jpg</boxArt>
         <reviews>
             <review>
-                <reviewer>Power Unlimited</reviewer>
-                <date>26 December 2018</date>
-                <body>Don't ask me how Nintendo managed to put more than 35 years of experience and love into one
-                    product, but they succeeded. Smash Ultimate is not only the ultimate Smash game, the ultimate
-                    fighting game, the ultimate party game, and the ultimate collection of videogame nostalgia: it's the
-                    ultimate video game. I will continue to play this forever. At least, until Nintendo delivers another
-                    sequel.
+                <reviewer>Armchair Empire</reviewer>
+                <date>14 Feburary 2012</date>
+                <body>Skyrim is definitely one of the best games of 2011, but if the DLC holds out, it might just be one
+                    of the best games of 2012 as well.
                 </body>
                 <score>100</score>
             </review>
             <review>
-                <reviewer>XGN</reviewer>
-                <date>6 December 2018</date>
-                <body>This is the ultimate Super Smash Bros. With an abundance of fighters, stages and modes there is
-                    always fun in fighting friends. Even when you're playing by yourself thanks to Classic Mode and
-                    World of Light if you play the second one in bite-sized chunks.
+                <reviewer>MEGamers</reviewer>
+                <date>17 November 2011</date>
+                <body>Skyrim is like a music album that has a few tracks that you aren't particularly fond of, but rest
+                    of the music is pure aural blliss that you can't help but think of the album as close to perfection
+                    as possible.
                 </body>
-                <score>97</score>
+                <score>95</score>
             </review>
             <review>
-                <reviewer>Attack of the Fanboy</reviewer>
-                <date>10 December 2018</date>
-                <body>Super Smash Bros. Ultimate is equal parts greatness and lacking. The sheer wealth of content and
-                    great gameplay is commended but there are big holes in what could be a great game.
+                <reviewer>PC Games</reviewer>
+                <date>16 December 2011</date>
+                <body>As expected: an open-world epic with a huge scope and a great atmosphere.
                 </body>
-                <score>70</score>
+                <score>91</score>
             </review>
         </reviews>
     </videogame>

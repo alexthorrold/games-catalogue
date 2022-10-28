@@ -98,18 +98,6 @@ foreach ($games->children() as $g) {
             <?php endforeach; ?>
         </div>
     </div>
-<!--    <div class="card mb-3">-->
-<!--        <div class="row g-0">-->
-<!--            <img src="--><?php //echo "$gameImage"?><!--" class="img-fluid rounded-start" alt "Videogame image">-->
-<!--        </div>-->
-<!--        <div class="col-md-8">-->
-<!--            <div class="card-body">-->
-<!--                  <h5 class="card-title"> Card title </h5>-->
-<!--                  <p>  Test text    </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
 </main>
 <footer class="footer bg-dark py-3 mt-auto">
     <div class="container">
