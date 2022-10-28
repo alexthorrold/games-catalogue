@@ -28,6 +28,7 @@ foreach ($games->children() as $g) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Videogame Catalog</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="stylesheets/main.css" rel="stylesheet">
 </head>
 <body class="d-flex flex-column min-vh-100">
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
@@ -69,20 +70,23 @@ foreach ($games->children() as $g) {
         <div class="col-6">
             <?php foreach ($game->reviews->children() as $review): ?>
                 <?php
-                $color = "bg-success";
+                $color = "high-score";
+                $bgColor = "high-score-bg";
 
-                if ($review->score < 75) {
-                    $color = "bg-warning";
+                if ($review->score < 70) {
+                    $color = "mid-score";
+                    $bgColor = "mid-score-bg";
                 }
 
                 if ($review->score < 50) {
-                    $color = "bg-danger";
+                    $color = "low-score";
+                    $bgColor = "low-score-bg";
                 }
                 ?>
                 <div class="card mb-3">
-                    <div class="card-body">
+                    <div class="card-body <?php echo $bgColor ?>">
                         <h5 class="card-title mb-3">
-                            <span class="bg-success p-2 rounded"><?php echo $review->score ?></span>
+                            <span class="<?php echo $color ?> p-2 rounded"><?php echo $review->score ?></span>
                             &nbsp&nbsp<?php echo $review->reviewer ?>
                         </h5>
                         <div class="card-text"><?php echo $review->body ?></div>

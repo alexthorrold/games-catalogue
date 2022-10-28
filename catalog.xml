@@ -5,14 +5,34 @@
         <date>18 November 2011</date>
         <genre>Sandbox</genre>
         <metacritic>93</metacritic>
-        <description>Metacritic Summary: The game involves players creating and destroying various types of blocks in a three dimensional environment. The player takes an avatar that can destroy or create blocks, forming fantastic structures, creations and artwork across the various multiplayer servers in multiple game modes.</description>
+        <description>Metacritic Summary: The game involves players creating and destroying various types of blocks in a
+            three-dimensional environment. The player takes an avatar that can destroy or create blocks, forming
+            fantastic structures, creations and artwork across the various multiplayer servers in multiple game modes.
+        </description>
         <boxArt>images/boxArt_Minecraft.jpg</boxArt>
         <reviews>
             <review>
                 <reviewer>Eurogamer Germany</reviewer>
-                <date>Jan 17 2012</date>
-                <body>Games like Skyrim or GTA love talk about open worlds, but it seems, that so far only Minecraft has truly embraced this principle. (…) This here is your story, that you simultaneously write and experience. All at your own pace.</body>
+                <date>17 January 2012</date>
+                <body>Games like Skyrim or GTA love talk about open worlds, but it seems, that so far only Minecraft has
+                    truly embraced this principle. (…) This here is your story, that you simultaneously write and
+                    experience. All at your own pace.
+                </body>
                 <score>100</score>
+            </review>
+            <review>
+                <reviewer>1UP</reviewer>
+                <date>21 November 2011</date>
+                <body>Meanwhile, Minecraft, with all its flaws and quirks, has already joined Super Mario Brothers,
+                    Wolfenstein 3D, and Tetris in the pantheon of games that prototyped an entire genre.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>3DJuegos</reviewer>
+                <date>25 November 2011</date>
+                <body>Minecraft is a masterpiece. A game that you must try.</body>
+                <score>91</score>
             </review>
         </reviews>
     </videogame>
@@ -22,7 +42,14 @@
         <date>17 September 2013</date>
         <genre>Action-Adventure</genre>
         <metacritic>96</metacritic>
-        <description>Metacritic Summary: Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of economic uncertainty and cheap reality TV. Amidst the turmoil, three very unique criminals plot their own chances of survival and success: Franklin, a street hustler looking for tangible opportunities and serious money; Michael, a professional ex-con whose retirement is less rosy than he figured it would be; and Trevor, a violent dude driven by the opportunity for a cheap high and his next big score. With options at a premium, the crew risks it all in a myriad of daring and dangerous heists that could set them up for life.</description>
+        <description>Metacritic Summary: Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets
+            and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of
+            economic uncertainty and cheap reality TV. Amidst the turmoil, three very unique criminals plot their own
+            chances of survival and success: Franklin, a street hustler looking for tangible opportunities and serious
+            money; Michael, a professional ex-con whose retirement is less rosy than he figured it would be; and Trevor,
+            a violent dude driven by the opportunity for a cheap high and his next big score. With options at a premium,
+            the crew risks it all in a myriad of daring and dangerous heists that could set them up for life.
+        </description>
         <boxArt>images/boxArt_GTA5.jpg</boxArt>
     </videogame>
 
@@ -31,7 +58,17 @@
         <date>20 March 2020</date>
         <genre>Simulation</genre>
         <metacritic>90</metacritic>
-        <description>Metacritic Summary: If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package. Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service. But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered. Peaceful creativity and charm await as you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more.</description>
+        <description>Metacritic Summary: If the hustle and bustle of modern life’s got you down, Tom Nook has a new
+            business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package.
+            Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk.
+            May’ve even turned over a new leaf and dedicated yourself to public service. But deep down, isn’t there a
+            part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a rich
+            wealth of untouched nature awaits, is just what the doctor ordered. Peaceful creativity and charm await as
+            you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft
+            everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and
+            trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make
+            friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more.
+        </description>
         <boxArt>images/boxArt_ACNH.jpg</boxArt>
     </videogame>
 
@@ -40,7 +77,17 @@
         <date>19 November 2006</date>
         <genre>Sports</genre>
         <metacritic>76</metacritic>
-        <description>Metacritic Summary: Tennis (1-4 players): Players grab the controller like a racket and swing – the game will register forehands, backhands, volleys, lobs, slices, spin and power depending on how fast the user swings and at what angle. Don't worry about moving around the court to get to the ball – the game automatically moves players into position. Baseball (1-2 players): Grip the controller like a bat and swat fastballs out of the park in a home run derby. Timing and bat speed will make all the difference between going yard and whiffing, so keep an eye on the ball and swing for the fences. In the two-player game, one player pitches and the other bats. Golf (1 player): Step up to the tee, hold the controller like a golf club and swing naturally to smack the ball onto the green. The harder players swing the club, the farther the ball will fly, so be sure to take some practice swings before going for the pin. After reaching the green, line up putts carefully, practice the stroke and try to hole out. [Nintendo]</description>
+        <description>Metacritic Summary: Tennis (1-4 players): Players grab the controller like a racket and swing – the
+            game will register forehands, backhands, volleys, lobs, slices, spin and power depending on how fast the
+            user swings and at what angle. Don't worry about moving around the court to get to the ball – the game
+            automatically moves players into position. Baseball (1-2 players): Grip the controller like a bat and swat
+            fastballs out of the park in a home run derby. Timing and bat speed will make all the difference between
+            going yard and whiffing, so keep an eye on the ball and swing for the fences. In the two-player game, one
+            player pitches and the other bats. Golf (1 player): Step up to the tee, hold the controller like a golf club
+            and swing naturally to smack the ball onto the green. The harder players swing the club, the farther the
+            ball will fly, so be sure to take some practice swings before going for the pin. After reaching the green,
+            line up putts carefully, practice the stroke and try to hole out. [Nintendo]
+        </description>
         <boxArt>images/boxArt_WiiSports.jpg</boxArt>
     </videogame>
 
@@ -49,7 +96,10 @@
         <date>20 December 2017</date>
         <genre>TPS</genre>
         <metacritic>86</metacritic>
-        <description>Metacritic Summary: PLAYERUNKNOWN'S BATTLEGROUNDS is a last-man-standing shooter being developed with community feedback. Players must fight to locate weapons and supplies in a massive 8x8 km island to be the lone survivor. This is BATTLE ROYALE.</description>
+        <description>Metacritic Summary: PLAYERUNKNOWN'S BATTLEGROUNDS is a last-man-standing shooter being developed
+            with community feedback. Players must fight to locate weapons and supplies in a massive 8x8 km island to be
+            the lone survivor. This is BATTLE ROYALE.
+        </description>
         <boxArt>images/boxArt_PUBG.jpg</boxArt>
     </videogame>
 
@@ -58,7 +108,13 @@
         <date>15 May 2006</date>
         <genre>Platformer</genre>
         <metacritic>89</metacritic>
-        <description>Metacritic Summary: The first new 2D Mario platformer since Super Mario World has arrived. Boasting "incredible" 3D graphics to accompany classic 2D gameplay, this fast-paced adventure will have Mario fans cheering as they make their way over fields, under water, through castles and into the air. New and familiar enemies are everywhere, not to mention "mind-blowing" challenges made possible by the dual screens of the Nintendo DS. Not only that, but players can link wirelessly with a friend to play as both Mario and Luigi in multiplayer mode. [Nintendo]</description>
+        <description>Metacritic Summary: The first new 2D Mario platformer since Super Mario World has arrived. Boasting
+            "incredible" 3D graphics to accompany classic 2D gameplay, this fast-paced adventure will have Mario fans
+            cheering as they make their way over fields, under water, through castles and into the air. New and familiar
+            enemies are everywhere, not to mention "mind-blowing" challenges made possible by the dual screens of the
+            Nintendo DS. Not only that, but players can link wirelessly with a friend to play as both Mario and Luigi in
+            multiplayer mode. [Nintendo]
+        </description>
         <boxArt>images/boxArt_NSMB.jpg</boxArt>
     </videogame>
 
@@ -67,7 +123,11 @@
         <date>29 May 2014</date>
         <genre>Racing</genre>
         <metacritic>92</metacritic>
-        <description>Metacritic Summary: Race and battle your friends in the definitive version of Mario Kart 8. Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play your friends in local wireless multiplayer with up to 8 players.</description>
+        <description>Metacritic Summary: Race and battle your friends in the definitive version of Mario Kart 8. Hit the
+            road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle
+            them in a revised battle mode on new and returning battle courses. Play your friends in local wireless
+            multiplayer with up to 8 players.
+        </description>
         <boxArt>images/boxArt_MK8D.jpeg</boxArt>
     </videogame>
 
@@ -76,7 +136,10 @@
         <date>24 May 2016</date>
         <genre>FPS</genre>
         <metacritic>91</metacritic>
-        <description>Metacritic Summary: Overwatch is a highly stylized team-based shooter set on earth in the near future. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, mercenaries, scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.</description>
+        <description>Metacritic Summary: Overwatch is a highly stylized team-based shooter set on earth in the near
+            future. Every match is an intense multiplayer showdown pitting a diverse cast of soldiers, mercenaries,
+            scientists, adventurers, and oddities against each other in an epic, globe-spanning conflict.
+        </description>
         <boxArt>images/boxArt_Overwatch.jpg</boxArt>
     </videogame>
 
@@ -85,7 +148,12 @@
         <date>7 September 2004</date>
         <genre>RPG</genre>
         <metacritic>81</metacritic>
-        <description>Metacritic Summary: Pokémon Fire Red adds more content and features to one of the first Pokémon games ever released. In this version of the classic role-playing game, you can collect all of the monsters from different Pokémon installments, including Ruby, Sapphire, and Colosseum. The game comes with a wireless adapter, which lets you connect with your friends' Game Boy Advances to chat, trade Pokémon, and participate in battles. Other new features include a tutorial mode, a recap system, minigames, and more.</description>
+        <description>Metacritic Summary: Pokémon Fire Red adds more content and features to one of the first Pokémon
+            games ever released. In this version of the classic role-playing game, you can collect all of the monsters
+            from different Pokémon installments, including Ruby, Sapphire, and Colosseum. The game comes with a wireless
+            adapter, which lets you connect with your friends' Game Boy Advances to chat, trade Pokémon, and participate
+            in battles. Other new features include a tutorial mode, a recap system, minigames, and more.
+        </description>
         <boxArt>images/boxArt_PokemonRed.jpg</boxArt>
     </videogame>
 
@@ -94,7 +162,15 @@
         <date>26 October 2018</date>
         <genre>Action-Adventure</genre>
         <metacritic>97</metacritic>
-        <description>Metacritic Summary: Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game’s vast and atmospheric world also provides the foundation for a brand new online multiplayer experience. America, 1899. The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang has to rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal fissures threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang that raised him. [Rockstar]</description>
+        <description>Metacritic Summary: Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red
+            Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game’s vast and
+            atmospheric world also provides the foundation for a brand new online multiplayer experience. America, 1899.
+            The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater,
+            Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters
+            in the nation massing on their heels, the gang has to rob, steal and fight their way across the rugged
+            heartland of America in order to survive. As deepening internal fissures threaten to tear the gang apart,
+            Arthur must make a choice between his own ideals and loyalty to the gang that raised him. [Rockstar]
+        </description>
         <boxArt>images/boxArt_RDR2.jpg</boxArt>
     </videogame>
 
@@ -103,7 +179,9 @@
         <date>16 May 2011</date>
         <genre>Sandbox</genre>
         <metacritic>83</metacritic>
-        <description>Metacritic Summary: Terraria offers players a chance to be an action gamer, master builder, a collector, and even an explorer.</description>
+        <description>Metacritic Summary: Terraria offers players a chance to be an action gamer, master builder, a
+            collector, and even an explorer.
+        </description>
         <boxArt>images/boxArt_Terraria.jpg</boxArt>
     </videogame>
 
@@ -112,7 +190,12 @@
         <date>19 May 2015</date>
         <genre>RPG</genre>
         <metacritic>93</metacritic>
-        <description>Metacritic Summary: With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders, breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next generation format.</description>
+        <description>Metacritic Summary: With the Empire attacking the Kingdoms of the North and the Wild Hunt, a
+            cavalcade of ghastly riders, breathing down your neck, the only way to survive is to fight back. As Geralt
+            of Rivia, a master swordsman and monster hunter, leave none of your enemies standing. Explore a gigantic
+            open world, slay beasts and decide the fates of whole communities with your actions, all in a genuine next
+            generation format.
+        </description>
         <boxArt>images/boxArt_TW3.jpg</boxArt>
     </videogame>
 
@@ -121,7 +204,13 @@
         <date>16 May 2012</date>
         <genre>ARPG</genre>
         <metacritic>88</metacritic>
-        <description>Metacritic Summary: Diablo III picks up the story twenty years after the events of Diablo II. Mephisto, Diablo, and Baal have been defeated, but the Worldstone, which once shielded the inhabitants of the world of Sanctuary from the forces of both the High Heavens and the Burning Hells, has been destroyed, and evil once again stirs in Tristram. Playing as a hero from one of five distinct character classes, players acquire powerful items, spells, and abilities as they explore new and familiar areas of Sanctuary and battle hordes of demons to safeguard the world from the horrors that have arisen.</description>
+        <description>Metacritic Summary: Diablo III picks up the story twenty years after the events of Diablo II.
+            Mephisto, Diablo, and Baal have been defeated, but the Worldstone, which once shielded the inhabitants of
+            the world of Sanctuary from the forces of both the High Heavens and the Burning Hells, has been destroyed,
+            and evil once again stirs in Tristram. Playing as a hero from one of five distinct character classes,
+            players acquire powerful items, spells, and abilities as they explore new and familiar areas of Sanctuary
+            and battle hordes of demons to safeguard the world from the horrors that have arisen.
+        </description>
         <boxArt>images/boxArt_Diablo3.jpg</boxArt>
     </videogame>
 
@@ -130,8 +219,47 @@
         <date>11 November 2011</date>
         <genre>RPG</genre>
         <metacritic>94</metacritic>
-        <description>Metacritic Summary: The next chapter in the Elder Scrolls saga arrives from the Bethesda Game Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before. Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons. Choose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions. Battle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power for yourself.</description>
+        <description>Metacritic Summary: The next chapter in the Elder Scrolls saga arrives from the Bethesda Game
+            Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for
+            you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the
+            legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.
+            Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains,
+            bustling cities, lush fields, and ancient dungeons. Choose from hundreds of weapons, spells, and abilities.
+            The new character system allows you to play any way you want and define yourself through your actions.
+            Battle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power
+            for yourself.
+        </description>
         <boxArt>images/boxArt_TESV.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Power Unlimited</reviewer>
+                <date>26 December 2018</date>
+                <body>Don't ask me how Nintendo managed to put more than 35 years of experience and love into one
+                    product, but they succeeded. Smash Ultimate is not only the ultimate Smash game, the ultimate
+                    fighting game, the ultimate party game, and the ultimate collection of videogame nostalgia: it's the
+                    ultimate video game. I will continue to play this forever. At least, until Nintendo delivers another
+                    sequel.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>XGN</reviewer>
+                <date>6 December 2018</date>
+                <body>This is the ultimate Super Smash Bros. With an abundance of fighters, stages and modes there is
+                    always fun in fighting friends. Even when you're playing by yourself thanks to Classic Mode and
+                    World of Light if you play the second one in bite-sized chunks.
+                </body>
+                <score>97</score>
+            </review>
+            <review>
+                <reviewer>Attack of the Fanboy</reviewer>
+                <date>10 December 2018</date>
+                <body>Super Smash Bros. Ultimate is equal parts greatness and lacking. The sheer wealth of content and
+                    great gameplay is commended but there are big holes in what could be a great game.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -139,8 +267,42 @@
         <date>7 December 2018</date>
         <genre>Platform Fighter</genre>
         <metacritic>93</metacritic>
-        <description>Metacritic Summary: Inklings from the Splatoon series, as well as returning Smash characters like Mario and Link will be making appearances in this classic Nintendo franchise's Switch debut. Faster combat, new items, new attacks, new defensive options, and more will keep the battle raging whether you’re at home or on the go.</description>
+        <description>Metacritic Summary: Inklings from the Splatoon series, as well as returning Smash characters like
+            Mario and Link will be making appearances in this classic Nintendo franchise's Switch debut. Faster combat,
+            new items, new attacks, new defensive options, and more will keep the battle raging whether you’re at home
+            or on the go.
+        </description>
         <boxArt>images/boxArt_SMBU.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Power Unlimited</reviewer>
+                <date>26 December 2018</date>
+                <body>Don't ask me how Nintendo managed to put more than 35 years of experience and love into one
+                    product, but they succeeded. Smash Ultimate is not only the ultimate Smash game, the ultimate
+                    fighting game, the ultimate party game, and the ultimate collection of videogame nostalgia: it's the
+                    ultimate video game. I will continue to play this forever. At least, until Nintendo delivers another
+                    sequel.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>XGN</reviewer>
+                <date>6 December 2018</date>
+                <body>This is the ultimate Super Smash Bros. With an abundance of fighters, stages and modes there is
+                    always fun in fighting friends. Even when you're playing by yourself thanks to Classic Mode and
+                    World of Light if you play the second one in bite-sized chunks.
+                </body>
+                <score>97</score>
+            </review>
+            <review>
+                <reviewer>Attack of the Fanboy</reviewer>
+                <date>10 December 2018</date>
+                <body>Super Smash Bros. Ultimate is equal parts greatness and lacking. The sheer wealth of content and
+                    great gameplay is commended but there are big holes in what could be a great game.
+                </body>
+                <score>70</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -148,8 +310,42 @@
         <date>24 April 2012</date>
         <genre>Interactive Film</genre>
         <metacritic>89</metacritic>
-        <description>Metacritic Summary: Based on Robert Kirkman's comic book series, The Walking Dead brings to life a world devastated by an undead apocalypse and the horrifying choices you're forced to make to survive. Play the role of Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer you redemption in a world gone to hell.</description>
+        <description>Metacritic Summary: Based on Robert Kirkman's comic book series, The Walking Dead brings to life a
+            world devastated by an undead apocalypse and the horrifying choices you're forced to make to survive. Play
+            the role of Lee Everett, a convicted criminal, who has been given a second chance at life in a world
+            devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their
+            own safety, protecting an orphaned girl named Clementine may offer you redemption in a world gone to hell.
+        </description>
         <boxArt>images/boxArt_TWD.jpeg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>ActionTrip</reviewer>
+                <date>23 Janurary 2013</date>
+                <body>The Walking Dead represents a jewel in the realm of episodic adventures. This game will shock you.
+                    It'll make you cry and curse. One of the most memorable gaming experience we've had in a long time.
+                    Don't miss out on it.
+                </body>
+                <score>96</score>
+            </review>
+            <review>
+                <reviewer>GamingTrend</reviewer>
+                <date>7 Janurary 2013</date>
+                <body>Overall this game was a unique experience that is not your everyday type of game, but is worth
+                    playing and I would suggest this game to almost anyone. It is a game that simply tells a beautiful
+                    and tragic story. It sucks you in emotionally and does not let go.
+                </body>
+                <score>95</score>
+            </review>
+            <review>
+                <reviewer>Games.cz</reviewer>
+                <date>18 Janurary 2013</date>
+                <body>The Walking Dead series offers one of the most intense game story of recent years that is not
+                    hardcore on its gamers from the adventure point of view. So relax, seat yourselves and let the
+                    zombie-apocalyptic world suck you in.
+                </body>
+                <score>80</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -157,8 +353,42 @@
         <date>18 September 2012</date>
         <genre>FPS</genre>
         <metacritic>89</metacritic>
-        <description>Metacritic Summary: Borderlands 2 advances the distinct blending of FPS and role-playing genres to create an evolution of the Role Playing Shooter. Team up with up to 3 other players for 4-player online goodness or go old-school with 2-player split-screen couch sharing mayhem as you spend hours leveling up your character and equipping them with one of the millions of badass weapons. Borderlands 2 features a new array of procedurally generated guns, shields, grenades, artifacts, enemies and more. Choose one of the 4 new character classes to be taken through a carefully crafted and connected story to all new and surprising environments across the living planet of Pandora. Make new friends, arm them to the teeth and fight alongside them on your relentless quest for revenge and redemption.</description>
+        <description>Metacritic Summary: Borderlands 2 advances the distinct blending of FPS and role-playing genres to
+            create an evolution of the Role Playing Shooter. Team up with up to 3 other players for 4-player online
+            goodness or go old-school with 2-player split-screen couch sharing mayhem as you spend hours leveling up
+            your character and equipping them with one of the millions of badass weapons. Borderlands 2 features a new
+            array of procedurally generated guns, shields, grenades, artifacts, enemies and more. Choose one of the 4
+            new character classes to be taken through a carefully crafted and connected story to all new and surprising
+            environments across the living planet of Pandora. Make new friends, arm them to the teeth and fight
+            alongside them on your relentless quest for revenge and redemption.
+        </description>
         <boxArt>images/boxArt_Borderlands2.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>PC Powerplay</reviewer>
+                <date>11 October 2012</date>
+                <body>Delivers on every promise of the original, being an instant classic that proudly stands alongside
+                    the PC's finest shooters. [Oct 2012, p.62]
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>GamingTrend</reviewer>
+                <date>26 September 2012</date>
+                <body>If you like piles of guns, lots to do and shoot, and a robust leveling system with a natural coop
+                    multi-player aspect and aren't put off by the cel shading, it's a no-brainer.
+                </body>
+                <score>94</score>
+            </review>
+            <review>
+                <reviewer>Absolute Games</reviewer>
+                <date>11 October 2012</date>
+                <body>Borderlands 2 is awfully simplistic as a first-person shooter, and it's not deep enough for an
+                    action/RPG game
+                </body>
+                <score>66</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -166,8 +396,45 @@
         <date>29 September 2017</date>
         <genre>Sports</genre>
         <metacritic>84</metacritic>
-        <description>Metacritic Summary: Score incredible goals in FIFA 18 as new movement and finishing animations unlock more fluid striking and heading of the ball. All-new crossing controls bring greater options to how you send it into the box. Whipped to the spot, arching deliveries, and pinged crosses to the back-stick will shake up your attacks in the final third. The biggest step in gameplay, FIFA 18 introduces Real Player Motion Technology, an all-new animation system that unlocks the next level of responsiveness and player personality. Now Cristiano Ronaldo and other top players feel and move exactly like they do on the real pitch. From tiki-taka to high press, new Team Styles put the most recognised tactics of the world's best clubs on the pitch in FIFA 18. Enjoy more time and space to read the play through New Player Positioning, while improved tactics give players greater options on the ball as teammates exploit space and make new attacking runs. [Electronic Arts]</description>
+        <description>Metacritic Summary: Score incredible goals in FIFA 18 as new movement and finishing animations
+            unlock more fluid striking and heading of the ball. All-new crossing controls bring greater options to how
+            you send it into the box. Whipped to the spot, arching deliveries, and pinged crosses to the back-stick will
+            shake up your attacks in the final third. The biggest step in gameplay, FIFA 18 introduces Real Player
+            Motion Technology, an all-new animation system that unlocks the next level of responsiveness and player
+            personality. Now Cristiano Ronaldo and other top players feel and move exactly like they do on the real
+            pitch. From tiki-taka to high press, new Team Styles put the most recognised tactics of the world's best
+            clubs on the pitch in FIFA 18. Enjoy more time and space to read the play through New Player Positioning,
+            while improved tactics give players greater options on the ball as teammates exploit space and make new
+            attacking runs. [Electronic Arts]
+        </description>
         <boxArt>images/boxArt_FIFA18.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>Gaming Age</reviewer>
+                <date>29 September 2017</date>
+                <body>My opinion on sports games comes down entirely to two factors: how good is the career mode, and
+                    how well does it represent the sport. And on both those counts, FIFA 18 delivers in spades.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>PlayGround.ru</reviewer>
+                <date>21 September 2017</date>
+                <body>FIFA 18 literally launches fireworks into the sky. The game is a real football holiday, and this
+                    year it's no less bright than before.
+                </body>
+                <score>90</score>
+            </review>
+            <review>
+                <reviewer>Gameplanet</reviewer>
+                <date>29 September 2017</date>
+                <body>FIFA 18’s new additions and modes make it the most compelling FIFA experience to date, and the
+                    franchise continues to demonstrate why it’s the best football game in the business. Minor complaints
+                    aside, FIFA 18 is the biggest and most welcoming football game to date
+                </body>
+                <score>90</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -175,8 +442,43 @@
         <date>10 November 2009</date>
         <genre>FPS</genre>
         <metacritic>94</metacritic>
-        <description>Metacritic Summary: Modern Warfare 2 continues the gripping and heart-racing action as players face off against a new threat dedicated to bringing the world to the brink of collapse. An entirely new gameplay mode which supports 2-player co-operative play online that is unique from the single player story campaign. Special Ops pits players into a gauntlet of time-trial and objective-based missions. Rank-up as players unlock new Special Ops missions, each more difficult.</description>
+        <description>Metacritic Summary: Modern Warfare 2 continues the gripping and heart-racing action as players face
+            off against a new threat dedicated to bringing the world to the brink of collapse. An entirely new gameplay
+            mode which supports 2-player co-operative play online that is unique from the single player story campaign.
+            Special Ops pits players into a gauntlet of time-trial and objective-based missions. Rank-up as players
+            unlock new Special Ops missions, each more difficult.
+        </description>
         <boxArt>images/boxArt_CODMW2.png</boxArt>
+        <reviews>
+            <review>
+                <reviewer>VideoGamer</reviewer>
+                <date>N/A</date>
+                <body>It's hard to see the majority of people wanting to play any other multiplayer shooter until the
+                    next CoD is released, such is the quality of what's on offer here.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Gamervision</reviewer>
+                <date>N/A</date>
+                <body>Infinity Ward has managed to outdo themselves with this sequel, a tremendous feat in its own
+                    right. If the games of 2009 were stacked up against each other, there’s no question that Modern
+                    Warfare 2 would be incredibly close to the apex, fighting viciously for the top spot and, for many
+                    people, getting there and continuing upward. This is what gaming is supposed to feel like.
+                </body>
+                <score>95</score>
+            </review>
+            <review>
+                <reviewer>1UP</reviewer>
+                <date>N/A</date>
+                <body>The PC version of Modern Warfare 2 is identical to the console versions in almost every way, and
+                    that's actually the problem. PC gamers have a certain expectation for online shooters. Removing
+                    dedicated server and user mod support from a game that's already $10 more than its predecessor
+                    seriously hinders the long term appeal for me.
+                </body>
+                <score>91</score>
+            </review>
+        </reviews>
     </videogame>
 
     <videogame>
@@ -184,7 +486,49 @@
         <date>3 March 2017</date>
         <genre>Action-Adventure</genre>
         <metacritic>97</metacritic>
-        <description>Metacritic Summary: Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this open-air adventure. Explore the wilds of Hyrule any way you like - Climb up towers and mountain peaks in search of new destinations, then set your own path to get there and plunge into the wilderness. Along the way, you'll battle towering enemies, hunt wild beasts and gather ingredients for the food and elixirs you'll need to sustain you on your journey.</description>
+        <description>Metacritic Summary: Forget everything you know about The Legend of Zelda games. Step into a world
+            of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new
+            game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover
+            what has become of the ruined kingdom of Hyrule in this open-air adventure. Explore the wilds of Hyrule any
+            way you like - Climb up towers and mountain peaks in search of new destinations, then set your own path to
+            get there and plunge into the wilderness. Along the way, you'll battle towering enemies, hunt wild beasts
+            and gather ingredients for the food and elixirs you'll need to sustain you on your journey.
+        </description>
         <boxArt>images/boxArt_BOTW.jpg</boxArt>
+        <reviews>
+            <review>
+                <reviewer>GameGrin</reviewer>
+                <date>12 December 2017</date>
+                <body>Where it takes mechanics from others in the industry, it improves upon them; where it introduces
+                    new ones, you slap your forehead in amazement that it hasn’t been done before. Breath of the Wild is
+                    development done right, and damn near the best game you’ll play all year.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>New York Daily News</reviewer>
+                <date>7 March 2017</date>
+                <body>Despite the stellar story and the absolutely fantastic visuals (aside from some framerate issues
+                    on the Switch), it’s this world overflowing with life that will grab and hold your attention for
+                    hours upon hours of gaming. As much as this is a story-driven RPG, Breath of the Wild is about its
+                    world, a world so vast that you could spend hours upon hours traversing its lands (trust me, I did)
+                    before actually making tangible progress in the story...It’s the Zelda game we’ve all been waiting
+                    for.
+                </body>
+                <score>100</score>
+            </review>
+            <review>
+                <reviewer>Polygon</reviewer>
+                <date>2 March 2017</date>
+                <body>I guess, in the end, it’s not just that Breath of the Wild signals that Zelda has finally evolved
+                    and moved beyond the structure it’s leaned on for so long. It’s that the evolution in question has
+                    required Nintendo to finally treat its audience like intelligent people. That newfound respect has
+                    led to something big, and different, and exciting. But in an open world full of big changes, Breath
+                    of the Wild also almost always feels like a Zelda game — and establishes itself as the first
+                    current, vital-feeling Zelda in almost 20 years.
+                </body>
+                <score>100</score>
+            </review>
+        </reviews>
     </videogame>
 </videogamedata>
