@@ -45,6 +45,12 @@ function toHtmlId($str)
                 <li class="nav-item">
                     <a id="nav-rating" class="nav-link" href="#">Sort by Rating</a>
                 </li>
+                <li class="nav-item">
+                    <a id="nav-date" class="nav-link" href="#">Sort by Release Date</a>
+                </li>
+                <li class="nav-item">
+                    <a id="nav-order" class="nav-link" href="#">&#8593&#8595</a>
+                </li>
             </ul>
         </div>
         <form class="d-flex" role="search">
