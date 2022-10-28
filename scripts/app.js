@@ -1,5 +1,4 @@
 let gameSearch = document.querySelector('#game-search');
-// let gamesHtml = document.querySelectorAll('.game-card');
 let gamesHtml = document.querySelector('#cards').children;
 gamesHtml = Array.prototype.slice.call(gamesHtml, 0);
 
