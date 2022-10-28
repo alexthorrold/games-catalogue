@@ -1,4 +1,5 @@
 <?php
+// Reads in data from catalog.xml
 if (file_exists('catalog.xml')) {
     $games = simplexml_load_file('catalog.xml');
 } else {
@@ -10,6 +11,7 @@ $gameName = $_POST["name"];
 $gameImage = "";
 $game = null;
 
+// Gets game from list of games in catalog
 foreach ($games->children() as $g) {
     if ($g->name == $gameName) {
         $game = $g;
@@ -87,7 +89,7 @@ foreach ($games->children() as $g) {
                     <div class="card-body <?php echo $bgColor ?>">
                         <h5 class="card-title mb-3">
                             <span class="<?php echo $color ?> p-2 rounded"><?php echo $review->score ?></span>
-                            &nbsp&nbsp<?php echo $review->reviewer ?>
+                            &nbsp<?php echo $review->reviewer ?>
                         </h5>
                         <div class="card-text"><?php echo $review->body ?></div>
                     </div>

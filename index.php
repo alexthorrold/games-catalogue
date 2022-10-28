@@ -5,6 +5,7 @@ if (file_exists('catalog.xml')) {
     exit('Failed to open catalog.xml');
 }
 
+// Removes non-alphanumeric characters from HTML ids
 function toHtmlId($str)
 {
     $str = str_replace(" ", "-", $str);

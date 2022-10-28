@@ -2,6 +2,7 @@ let gameSearch = document.querySelector('#game-search');
 let gamesHtml = document.querySelector('#cards').children;
 gamesHtml = Array.prototype.slice.call(gamesHtml, 0);
 
+// Assigns values from XML to all games, acquired from values stored in spans in HTML
 for (const game of gamesHtml) {
     game.name = game.querySelector(`#${game.id}-name`).innerText;
     game.date = game.querySelector(`#${game.id}-date`).innerText;
@@ -9,7 +10,11 @@ for (const game of gamesHtml) {
     game.metacritic = parseInt(game.querySelector(`#${game.id}-rating`).innerText);
 }
 
+/**
+ * Displays games that contain value of input whenever input changes in search bar
+ */
 gameSearch.addEventListener('input', () => {
+    // Displays all games if there is no input in search bar
     if (gameSearch.value === '') {
         for (const game of gamesHtml) {
             game.style.display = 'block';
@@ -27,10 +32,15 @@ gameSearch.addEventListener('input', () => {
     }
 });
 
+/**
+ * Adds various on-click functionality for games
+ */
 function addGameOnClick() {
     for (const game of gamesHtml) {
         const gameInner = game.querySelector('.card');
 
+        // Creates a hidden form and immediately submits it with a post request to details.php
+        // to get details page for the game clicked
         gameInner.addEventListener('click', () => {
             const form = document.createElement('form');
             form.style.display = 'none';
@@ -59,11 +69,19 @@ function addGameOnClick() {
     }
 }
 
+/**
+ * Reverses the order games are displayed
+ */
 function reverseOrder() {
     gamesHtml.reverse();
     appendGames();
 }
 
+/**
+ * Converts a given string to a date object
+ * @param str String to be converted
+ * @returns {Date} Given string as a date object
+ */
 function toDateObject(str) {
     const months = ['January', 'February', 'March', 'April', 'May', 'June',
         'July', 'August', 'September', 'October', 'November', 'December'];
@@ -71,6 +89,7 @@ function toDateObject(str) {
     try {
         const split = str.split(' ');
 
+        // Runs catch code to return a new date of 00/00/0000 if string given is not valid
         if (split.length !== 3) {
             throw '';
         }
@@ -90,6 +109,9 @@ function toDateObject(str) {
     }
 }
 
+/**
+ * Passes alphabetical sort function to sort() method
+ */
 function sortAlphabetically() {
     sort((a, b) => {
         const nameA = a.name.toUpperCase();
@@ -107,6 +129,9 @@ function sortAlphabetically() {
     });
 }
 
+/**
+ * Passes rating sort function to sort() method
+ */
 function sortRating() {
     sort((m1, m2) => {
         if (m1.metacritic < m2.metacritic) {
@@ -121,6 +146,9 @@ function sortRating() {
     });
 }
 
+/**
+ * Passes release date sort function to sort() method
+ */
 function sortReleaseDate() {
     sort((a, b) => {
         const dateA = toDateObject(a.date);
@@ -138,11 +166,18 @@ function sortReleaseDate() {
     });
 }
 
+/**
+ * Sorts game divs using a given sort function and appends new ordering to page
+ * @param sortFunction
+ */
 function sort(sortFunction) {
     gamesHtml.sort(sortFunction);
     appendGames();
 }
 
+/**
+ * Appends games to parent
+ */
 function appendGames() {
     const parent = document.querySelector('#cards');
     parent.innerHTML = '';
