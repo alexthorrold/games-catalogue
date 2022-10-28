@@ -7,10 +7,15 @@ if (file_exists('catalog.xml')) {
 
 $gameName = $_POST["name"];
 
-
 $gameImage = "";
 $game = null;
 
+foreach ($games->children() as $g) {
+    if ($g->name == $gameName) {
+        $game = $g;
+        break;
+    }
+}
 ?>
 
 <!DOCTYPE html>
@@ -31,18 +36,76 @@ $game = null;
     </div>
 </nav>
 <main class="container mt-5">
-    <div class="card mb-3">
-        <div class="row g-0">
-            <img src="<?php echo "$gameImage"?>" class="img-fluid rounded-start" alt "Videogame image">
-        </div>
-        <div class="col-md-8">
-            <div class="card-body">
-                  <h5 class="card-title"> Card title </h5>
-                  <p>  Test text    </p>
+    <div class="row">
+        <div class="col-6">
+            <div class="card mb-3">
+                <img src="<?php echo "$game->boxArt" ?>" alt="<?php echo "$game->name Box Art" ?>" class="card-img-top">
+                <div class="card-body">
+                    <h4 class="card-title"><?php echo $game->name ?></h4>
+                    <p class="card-text"><?php echo $game->description ?></p>
                 </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <div class="me-auto">
+                            <div class="fw-bold">Date Released</div>
+                            <?php echo $game->date ?>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="me-auto">
+                            <div class="fw-bold">Genre</div>
+                            <?php echo $game->genre ?>
+                        </div>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="me-auto">
+                            <div class="fw-bold">Metacriting Rating</div>
+                            <?php echo $game->metacritic ?>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
+        <div class="col-6">
+            <?php foreach ($game->reviews->children() as $review): ?>
+                <?php
+                $color = "bg-success";
+
+                if ($review->score < 75) {
+                    $color = "bg-warning";
+                }
+
+                if ($review->score < 50) {
+                    $color = "bg-danger";
+                }
+                ?>
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title mb-3">
+                            <span class="bg-success p-2 rounded"><?php echo $review->score ?></span>
+                            &nbsp&nbsp<?php echo $review->reviewer ?>
+                        </h5>
+                        <div class="card-text"><?php echo $review->body ?></div>
+                    </div>
+                    <div class="card-footer">
+                        <?php echo $review->date ?>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        </div>
     </div>
+<!--    <div class="card mb-3">-->
+<!--        <div class="row g-0">-->
+<!--            <img src="--><?php //echo "$gameImage"?><!--" class="img-fluid rounded-start" alt "Videogame image">-->
+<!--        </div>-->
+<!--        <div class="col-md-8">-->
+<!--            <div class="card-body">-->
+<!--                  <h5 class="card-title"> Card title </h5>-->
+<!--                  <p>  Test text    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
 </main>
 <footer class="footer bg-dark py-3 mt-auto">
     <div class="container">
@@ -50,6 +113,5 @@ $game = null;
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-<script src="scripts/app.js" type="text/javascript"></script>
 </body>
 </html>
